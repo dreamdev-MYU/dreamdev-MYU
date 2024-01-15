@@ -1,5 +1,6 @@
 <img align="center" src="https://camo.githubusercontent.com/2619e5a9ead82dd13149cb33aeae4dd13e9969607c61eac3ac78fa34d6f5a609/687474703a2f2f70726f70756c736976652e696e2f6173736574732f696d672f736572766963652d69636f6e2f7765622e676966">
-<h1 align="center"> Hi https://gist.github.com/arunprakashpj/48aa20057048b46c6f9ba9d114a8b76f/raw/69a9d496f651091a509ea8d9913c4aef5c419afb/Hi.gif, I'm Yahyobek</h1>
+<h1 align="center"> Hi![image](https://github.com/dreamdev-MYU/dreamdev-MYU/assets/155903617/bc34e22f-61dc-486c-8d16-0492f78afe7c)
+, I'm Yahyobek</h1>
 <h3 align="center">BACKEND Developer from Uzbekistan</h3>
 <img align="right" alt="coding" width="410" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dreamdev-myu&label=Profile%20views&color=0e75b6&style=flat" alt="dreamdev-myu" /> </p>
